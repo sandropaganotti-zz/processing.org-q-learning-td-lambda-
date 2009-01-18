@@ -1,0 +1,24 @@
+This is a Q-learning algorithm written in Processing.org language. (screenshot: http://sandropaganotti.com/wp-content/uploads/2009/01/ishot-88.png)
+
+Here's the properties you can change in this program
+// game properties
+float start_q  = 0.0;
+float start_e  = 0.0;
+float start_r  = 0.0;
+float a_param  = 0.1;
+float g_param  = 1;      // finite horizont
+float l_param  = 0.9;
+float e_param  = 0.01;   // greedy action - not yet implemented
+
+
+int grid_width = 25;
+int grid_height = 25;
+int start_state_x = 1;
+int start_state_y = 1;
+int goal_x = 4;
+int goal_y = 20;
+int action_nr  = 4;
+
+For more information you can read:
+http://en.wikipedia.org/wiki/Q-learning 
+http://sandropaganotti.com/2009/01/18/q-learning-con-processingorgq-learning-con-processingorg/ (ITALIAN)
