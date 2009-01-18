@@ -1,4 +1,5 @@
-This is a Q-learning algorithm written in Processing.org language. (screenshot: http://sandropaganotti.com/wp-content/uploads/2009/01/ishot-88.png)
+This is a Q-learning algorithm written in Processing.org language. 
+(screenshot: http://sandropaganotti.com/wp-content/uploads/2009/01/ishot-88.png)
 
 Here's the properties you can change in this program
 // game properties
@@ -22,3 +23,7 @@ int action_nr  = 4;
 For more information you can read:
 http://en.wikipedia.org/wiki/Q-learning 
 http://sandropaganotti.com/2009/01/18/q-learning-con-processingorgq-learning-con-processingorg/ (ITALIAN)
+
+
+
+
